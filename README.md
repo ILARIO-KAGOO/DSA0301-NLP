@@ -32,6 +32,8 @@
 
 1. [Morph_Analysis](/Week-2/3.Morph_Analysis.ipynb)
 
-1. [Porter_Stemmer](/Week-2/4.Porter_Stemmer.ipynb)
+1. [Morph_Analysis](/Week-2)
+
+1. [Porter_Stemmer](/Week-2/5.Porter_Stemmer.ipynb)
 
 1. [Morph_Analysis](/Week-2)

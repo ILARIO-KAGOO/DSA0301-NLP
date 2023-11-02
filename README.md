@@ -17,3 +17,4 @@
 
 ## WEEK-2
 1. [Regular_Expression](/Week-2/1.Regular_Expression.ipynb)
+1. [DFA_ending_with_ab](/Week-2/2.DFA_ending_with_ab.ipynb)

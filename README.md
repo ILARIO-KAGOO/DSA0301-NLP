@@ -38,4 +38,6 @@
 
 1. [N_gram_model](/Week-2/6.N_gram_model.ipynb)
 
+1. [Part_of_Speech_Tagging](/Week-2/7.Part_of_Speech_Tagging.ipynb)
+
 1. [Morph_Analysis](/Week-2)

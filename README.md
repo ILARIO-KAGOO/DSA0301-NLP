@@ -29,3 +29,7 @@
 1. [Regular_Expression](/Week-2/1.Regular_Expression.ipynb)
 
 1. [DFA_ending_with_ab](/Week-2/2.DFA_ending_with_ab.ipynb)
+
+1. [Morph_Analysis](/Week-2/3.Morph_Analysis.ipynb)
+
+1. [Morph_Analysis](/Week-2/)

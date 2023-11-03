@@ -42,4 +42,6 @@
 
 1. [8th_program](/Week-2)
 
+1. [Rule_Based_Tagging](/Week-2/9.Rule_Based_Tagging.ipynb)
+
 ---

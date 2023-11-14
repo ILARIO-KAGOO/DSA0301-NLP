@@ -40,7 +40,7 @@
 
 1. [Part_of_Speech_Tagging](/Week-2/7.Part_of_Speech_Tagging.ipynb)
 
-1. [8th_program](/Week-2)
+1. [Simple_Stochastic_POS](/Week-2/8.Simple_Stochastic_POS.ipynb)
 
 1. [Rule_Based_Tagging](/Week-2/9.Rule_Based_Tagging.ipynb)
 

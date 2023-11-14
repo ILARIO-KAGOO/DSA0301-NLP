@@ -48,7 +48,7 @@
 
 1. [Top_Down_Parser_CFG](/Week-2/11.Top_Down_Parser_CFG.ipynb)
 
-1. [12th_program](/Week-2)
+1. [Early_Parser_CFG](/Week-2/12.Early_Parser_CFG.ipynb)
 
 1. [13th_program](/Week-2)
 

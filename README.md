@@ -56,6 +56,8 @@
 
 1. [Probabilistic_CGF](/Week-2/15.Probabilistic_CGF.ipynb)
 
-1. [16th_program](/Week-2)
+1. [Named_Entity_Recognition](/Week-2/16.Named_Entity_Recognition.ipynb)
+
+1. [17th_program](/Week-2)
 
 ---

@@ -54,4 +54,8 @@
 
 1. [Context_Free_Grammer](/Week-2/14.Context_Free_Grammer.ipynb)
 
+1. [Probabilistic_CGF](/Week-2/15.Probabilistic_CGF.ipynb)
+
+1. [16th_program](/Week-2)
+
 ---

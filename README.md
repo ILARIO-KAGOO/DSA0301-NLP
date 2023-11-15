@@ -60,6 +60,8 @@
 
 1. [WordNet](/Week-2/17.WordNet.ipynb)
 
-1. [18th_program](/Week-2)
+1. [FOPC_Parser](/Week-2/18.FOPC_Parser.ipynb)
+
+1. [19th_program](/Week-2)
 
 ---

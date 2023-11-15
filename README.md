@@ -64,18 +64,18 @@
 
 1. [Word_Sense_Lesk_Algorithm](/Week-2/19.Word_Sense_Lesk_Algorithm.ipynb)
 
-1. [20th_program](/Week-2)
+1. [Retrieval_System_Using_TF-IDF](/Week-2/20.Retrieval_System_Using_TF-IDF.ipynb)
 
-1. [21th_program](/Week-2)
+1. [Syntax_Driven_Semantic_Analyser](/Week-2/21.Syntax_Driven_Semantic_Analyser.ipynb)
 
-1. [22th_program](/Week-2)
+1. [Reference_Resolution](/Week-2/22.Reference_Resolution.ipynb)
 
-1. [23th_program](/Week-2)
+1. [Coherence_Of_Text](/Week-2/23.Coherence_Of_Text.ipynb)
 
-1. [24th_program](/Week-2)
+1. [Recognition_Of_Dialog_Acts](/Week-2/24.Recognition_Of_Dialog_Acts.ipynb)
 
-1. [25th_program](/Week-2)
+1. [Generate_Text_Based_on_Prompt](/Week-2/25.Generate_Text_Based_on_Prompt.ipynb)
 
-1. [26th_program](/Week-2)
+1. [Machine_Translation_Using_Hugging_Face](/Week-2/26.Machine_Translation_Using_Hugging_Face.ipynb)
 
 ---

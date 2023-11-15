@@ -62,6 +62,20 @@
 
 1. [FOPC_Parser](/Week-2/18.FOPC_Parser.ipynb)
 
-1. [19th_program](/Week-2)
+1. [Word_Sense_Lesk_Algorithm](/Week-2/19.Word_Sense_Lesk_Algorithm.ipynb)
+
+1. [20th_program](/Week-2)
+
+1. [21th_program](/Week-2)
+
+1. [22th_program](/Week-2)
+
+1. [23th_program](/Week-2)
+
+1. [24th_program](/Week-2)
+
+1. [25th_program](/Week-2)
+
+1. [26th_program](/Week-2)
 
 ---

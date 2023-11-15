@@ -58,6 +58,8 @@
 
 1. [Named_Entity_Recognition](/Week-2/16.Named_Entity_Recognition.ipynb)
 
-1. [17th_program](/Week-2)
+1. [WordNet](/Week-2/17.WordNet.ipynb)
+
+1. [18th_program](/Week-2)
 
 ---
